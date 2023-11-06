@@ -36,13 +36,13 @@ Or directly with python:
 ```python app.py```
 Once the server is running, navigate to **http://127.0.0.1:5000/** in your web browser to use the application.
 
-##API
+## API
 You can also access the prediction functionality through the REST API endpoint:
 ```POST /predict```
 Send a POST request with JSON content containing the diamond features, and you will receive a JSON response with the predicted price.
 
-##Contributing
+## Contributing
 Contributions to this project are welcome. Please fork the repository and submit a pull request.
 
-##License
+## License
 This project is licensed under the MIT License - see the [LICENSE](https://docs.github.com/en/rest/licenses/licenses?apiVersion=2022-11-28) for details.
