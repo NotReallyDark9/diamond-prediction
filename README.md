@@ -28,6 +28,8 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 ```
 pip install -r requirements.txt
 ```
+4, Install random_forest_model.joblib
+Since GitHub doesn't allow to upload 300mb file, I had to put it in Google Drive, you can download it [Here](https://drive.google.com/file/d/1XK0GvrZ-Q1SOLvVLYVp-Bfghb_LPksay/view?usp=drive_link). Put it in the main folder.
 
 ## Usage
 To start the Flask server, run:
