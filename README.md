@@ -15,8 +15,8 @@ To run this project, you will need to set up a Python environment and install th
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/NotReallyDark9/diamond-prediction
+cd diamond-prediction
 ```
 
 2. It's recommended to set up a virtual environment:
